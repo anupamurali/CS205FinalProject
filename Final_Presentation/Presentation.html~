@@ -208,7 +208,7 @@ table, th {
                   <section>
                  <h3> Evaluation </h3>
                  <ul>     
-                   <li>Using the power method to estimate mode shapes, instead of SVD saves orders of magnitudes in execution time on CPU (1900$\times$ on 1217$\times$ 1217 matrix)<br><br>  </li>
+                   <li>Using the power method to estimate mode shapes, instead of SVD saves orders of magnitudes in execution time on CPU (1900$\times$ on 1217$\times$ 1217matrix)<br><br>  </li>
                   <li>No meaningful decrease in accuracy <br><br>  </li>
                   <li> Succesfully parallelised the algorithm using MPI4py: Simulation of a wireless network <br><br>  </li>
                    <li>More work required to prove concept with wireless communication and microcontroller <br><br>  </li>
